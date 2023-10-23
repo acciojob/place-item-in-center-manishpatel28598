@@ -1,19 +1,17 @@
 
 /* Your CSS Code here. */
 .holder{
-	dispaly: flex;
+	display: flex;
 	justify-content: center;
+	align-items: center;
 	width: 100vw;
-	height: 100vw;
+	height: 100vh;
 	border: solid blue;
 }
 .item-1{
 	display: flex;
-/* 	justify-content: center; */
 	align-items: center;
 	background-color: red;
-	margin-top: 50%;
-	margin-left: 50%;
 	width: 100px;
 	height: 100px;
 }
